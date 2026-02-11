@@ -1,2 +1,2 @@
-# SW_LAB
-Software Lab Work Submission
+# SW_LAB1
+Software Lab1 Work Submission
